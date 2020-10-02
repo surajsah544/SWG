@@ -156,4 +156,5 @@ Example project
 
 For an example site, look at my personal blog github repo located here https://github.com/evilsocket/evilsocket.net
 
+Thanks!
 Enjoy ^^
